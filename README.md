@@ -1,4 +1,4 @@
-# Electricity-Bill-Generation
+# basic_php_javascript
 Using PHP date functions and a little bit of JavaScript
 
 Don't forget to check out the "Electricity Bill - Screenshot.jpg" file to get a preview of the output!
